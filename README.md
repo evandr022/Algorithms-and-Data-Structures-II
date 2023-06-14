@@ -1,8 +1,10 @@
-# Algorithms and Data Structures II
+# Algorithms and Data Structures II   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Completed-brightgreen"/> 
 
 Amazonas Federal University
 
 Discipline: Algorithms and Data Structures II
+
+Period: 2022/1 (year 2023)
 
 Professor: Edson Nascimento Silva Jr.
 
